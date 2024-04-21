@@ -1,0 +1,31 @@
+\chapter{Fifth Requirement}
+\section{Computing PSNR}
+The quality of the decompressed image is measured using the Peak Signal-to-Noise Ratio 
+(PSNR), which is defined by 
+\begin{tcolorbox}[]
+    $$\text{PSNR} = 10\, \log_{10}{\left(\frac{\text{peak}^2}{\text{MSE}}\right)}$$
+\end{tcolorbox}
+\vspace{5pt}
+
+
+\noindent Where peak is the max value of pixel data type and MSE is defined by
+\begin{tcolorbox}[]
+    $$\text{MSE} = \frac{1}{3MN} \sum_{m=0}^{M-1}\sum_{n=0}^{N-1}\sum_{c=0}^{2} \left(x[m,n,c] - \hat{x}[m,n,c]\right)^2 $$
+\end{tcolorbox}
+\noindent Where $\hat{x}$ is decompressed image matrix and $x$ is the original image matrix. 
+\vspace{5pt}
+\begin{table}[h]
+    \begin{tabularx}{\textwidth}{|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|}
+        \hline
+        $m$ & PSNR (dB) \\
+        \hline
+        1 & 31.51  \\
+        2 & 32.08  \\
+        3 & 32.57  \\
+        4 & 33.21  \\
+        \hline
+    \end{tabularx}
+\end{table}
+\vspace{20pt}
+\lstinputlisting[language=Python,caption={Code For Calculating PSNR.}]{denoising.py}
+

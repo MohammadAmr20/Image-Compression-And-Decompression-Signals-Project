@@ -1,0 +1,19 @@
+\chapter{Second Requirement}
+\section{Compressing Image Using Discrete Cosines Transform}
+As stated in the project document , We deal with each color channel of image matrix as group of blocks. Each block is $8$x$8$ pixels.We apply to each block the DCT such that we get the lower frequencies that has the higher impact on eye and then we can neglect the other frequencies and just store the important ones.
+\vspace{5pt}
+\begin{tcolorbox}[colback=red!8!white,colframe=red!40!black,title=Discrete Cosines Transform Equation]
+    $$X\left[p,q\right] = \alpha_p \alpha_q \sum_{m=0}^{M-1}\sum_{n=0}^{N-1}x[m,n] \cos{\frac{\pi \left(2m+1\right)p}{2M}} \, \cos{\frac{\pi \left(2n+1\right)q}{2N}}$$
+    $$\alpha_p = \begin{cases}
+        \frac{1}{\sqrt{M}}\hspace{27pt} p=0 \\\\
+        \sqrt{\frac{2}{M}}\,\,\, 1 \leq p \leq M - 1
+    \end{cases}
+    \alpha_q = \begin{cases}
+        \frac{1}{\sqrt{N}}\hspace{27pt} q=0 \\\\
+        \sqrt{\frac{2}{N}}\,\,\, 1 \leq q \leq N - 1
+    \end{cases}
+    $$
+\end{tcolorbox}
+\vspace{5pt}
+\lstinputlisting[language=Python,caption={Code For Compressing Image using DCT.}]{outputUsingDelay.py}
+\vspace{5pt}

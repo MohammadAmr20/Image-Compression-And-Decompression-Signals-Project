@@ -1,0 +1,72 @@
+\documentclass{report}
+\usepackage[utf8]{inputenc}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage[a4paper, total={6in, 10in}]{geometry}
+\usepackage[most]{tcolorbox}
+\usepackage{tabularx}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=black,
+    citecolor=black
+}
+\usepackage{tocloft}
+
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{blue},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=mystyle}
+
+
+\title{{\LARGE Signals Project Report} \\[3pt]
+{\LARGE Computer Department - FECU} \\[10pt]}
+\author{\LARGE Muhammad Amr Hassan 9220728 \\[10pt]
+\LARGE Youssef Tarek Mehany 9220990 \\[20pt]
+\Large Presented To \\[10pt]
+\LARGE Dr. Micheal Melek \\[10pt]
+\LARGE Eng. Sayed Kamel \\[10pt]
+}
+
+\date{\Large May 2024}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\listoffigures
+\include{ch0}
+\include{ch1}
+\include{ch2}
+\include{ch3}
+\include{ch4}
+\include{ch5}
+\include{ch6}
+\appendix
+\include{app1}
+\include{app2}
+\end{document}
