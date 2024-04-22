@@ -11,7 +11,7 @@
 \contentsline {chapter}{\numberline {4}Third Requirement}{6}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Comparing the sizes of all images}{6}{section.4.1}%
 \contentsline {chapter}{\numberline {5}Fourth Requirement}{7}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Finding Output Using Convolution}{7}{section.5.1}%
+\contentsline {section}{\numberline {5.1}Decompressing Image using IDCT}{7}{section.5.1}%
 \contentsline {chapter}{\numberline {6}Fifth Requirement}{10}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Computing PSNR}{10}{section.6.1}%
 \contentsline {chapter}{\numberline {7}Sixth Requirement}{11}{chapter.7}%
