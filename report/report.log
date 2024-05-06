@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.28)  22 APR 2024 22:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.28)  5 MAY 2024 03:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -738,12 +738,12 @@ Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on in
  (ch1.tex
 Chapter 2.
 (readingAudio.py)
-<../Image Components/a_red.png, id=195, 1011.78pt x 433.62pt>
+<../Image Components/a_red.png, id=190, 1011.78pt x 433.62pt>
 File: ../Image Components/a_red.png Graphic file (type png)
 <use ../Image Components/a_red.png>
 Package pdftex.def Info: ../Image Components/a_red.png  used on input line 8.
 (pdftex.def)             Requested size: 433.62pt x 185.83763pt.
-<../Image Components/a_green.png, id=197, 1011.78pt x 433.62pt>
+<../Image Components/a_green.png, id=192, 1011.78pt x 433.62pt>
 File: ../Image Components/a_green.png Graphic file (type png)
 <use ../Image Components/a_green.png>
 Package pdftex.def Info: ../Image Components/a_green.png  used on input line 14.
@@ -752,7 +752,7 @@ Package pdftex.def Info: ../Image Components/a_green.png  used on input line 14.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../Image Components/a_blue.png, id=198, 1011.78pt x 433.62pt>
+<../Image Components/a_blue.png, id=193, 1011.78pt x 433.62pt>
 File: ../Image Components/a_blue.png Graphic file (type png)
 <use ../Image Components/a_blue.png>
 Package pdftex.def Info: ../Image Components/a_blue.png  used on input line 20.
@@ -791,7 +791,7 @@ Chapter 4.
  (ch4.tex
 Chapter 5.
 (DecompressingImage.py)
-<../Decompressed Images/decompressedImage_m1.png, id=248, 1927.2pt x 1084.05pt>
+<../Decompressed Images/decompressedImage_m1.png, id=243, 1927.2pt x 1084.05pt>
 File: ../Decompressed Images/decompressedImage_m1.png Graphic file (type png)
 <use ../Decompressed Images/decompressedImage_m1.png>
 Package pdftex.def Info: ../Decompressed Images/decompressedImage_m1.png  used on input line 23.
@@ -800,7 +800,7 @@ Package pdftex.def Info: ../Decompressed Images/decompressedImage_m1.png  used o
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../Decompressed Images/decompressedImage_m2.png, id=249, 1927.2pt x 1084.05pt>
+<../Decompressed Images/decompressedImage_m2.png, id=244, 1927.2pt x 1084.05pt>
 File: ../Decompressed Images/decompressedImage_m2.png Graphic file (type png)
 <use ../Decompressed Images/decompressedImage_m2.png>
 Package pdftex.def Info: ../Decompressed Images/decompressedImage_m2.png  used on input line 30.
@@ -808,7 +808,7 @@ Package pdftex.def Info: ../Decompressed Images/decompressedImage_m2.png  used o
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../Decompressed Images/decompressedImage_m3.png, id=250, 1927.2pt x 1084.05pt>
+<../Decompressed Images/decompressedImage_m3.png, id=245, 1927.2pt x 1084.05pt>
 File: ../Decompressed Images/decompressedImage_m3.png Graphic file (type png)
 <use ../Decompressed Images/decompressedImage_m3.png>
 Package pdftex.def Info: ../Decompressed Images/decompressedImage_m3.png  used on input line 37.
@@ -816,7 +816,7 @@ Package pdftex.def Info: ../Decompressed Images/decompressedImage_m3.png  used o
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../Decompressed Images/decompressedImage_m4.png, id=251, 1927.2pt x 1084.05pt>
+<../Decompressed Images/decompressedImage_m4.png, id=246, 1927.2pt x 1084.05pt>
 File: ../Decompressed Images/decompressedImage_m4.png Graphic file (type png)
 <use ../Decompressed Images/decompressedImage_m4.png>
 Package pdftex.def Info: ../Decompressed Images/decompressedImage_m4.png  used on input line 44.
@@ -844,7 +844,7 @@ Chapter 6.
 
  (ch6.tex
 Chapter 7.
-<../PSNR_plot.png, id=287, 1011.78pt x 433.62pt>
+<../PSNR_plot.png, id=282, 1011.78pt x 433.62pt>
 File: ../PSNR_plot.png Graphic file (type png)
 <use ../PSNR_plot.png>
 Package pdftex.def Info: ../PSNR_plot.png  used on input line 6.
@@ -880,20 +880,20 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 0B2D2C236F4127E6DE885400BE723FC1;3056.
+(rerunfilecheck)             Checksum: A7D957171244A5B913399386337042F7;2945.
  ) 
 Here is how much of TeX's memory you used:
- 28645 strings out of 474486
- 577630 string characters out of 5743755
- 2361542 words of memory out of 5000000
- 50219 multiletter control sequences out of 15000+600000
+ 28643 strings out of 474486
+ 577606 string characters out of 5743755
+ 2382542 words of memory out of 5000000
+ 50218 multiletter control sequences out of 15000+600000
  567173 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  93i,12n,99p,576b,2114s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/midoa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/midoa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/midoa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/midoa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/midoa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/midoa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/midoa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/midoa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/midoa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/midoa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/midoa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/midoa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/midoa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on report.pdf (15 pages, 9379256 bytes).
+Output written on report.pdf (15 pages, 9378826 bytes).
 PDF statistics:
- 486 PDF objects out of 1000 (max. 8388607)
- 183 named destinations out of 1000 (max. 500000)
- 365 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 481 PDF objects out of 1000 (max. 8388607)
+ 182 named destinations out of 1000 (max. 500000)
+ 357 words of extra memory for PDF output out of 10000 (max. 10000000)
 
