@@ -73,7 +73,7 @@ def Project():
             compressedImage = compressImage(inputImageArray,m)
             np.save(f"Compressed Images/compressedImage_m{m}",compressedImage.astype(np.uint8))
             decompressedImage = decompressImage(compressedImage,m)
-            PSNR = writeImageInfo(file,sys.getsizeof(compressedImage.astype(np.float16)),inputImageArray,decompressedImage.astype(np.uint8),m)
+            PSNR = writeImageInfo(file,sys.getsizeof(compressedImage.astype(np.uint8)),inputImageArray,decompressedImage.astype(np.uint8),m)
             PSNRS[m-1]=PSNR
             cv2.imwrite(f"Decompressed Images/decompressedImage_m{m}.png",decompressedImage)
         allMs = np.linspace(1,4,4,dtype=np.uint8)

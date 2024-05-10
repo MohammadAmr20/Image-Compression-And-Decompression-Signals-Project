@@ -427,34 +427,34 @@ INPUT ch4.tex
 INPUT .\DecompressingImage.py
 INPUT .\DecompressingImage.py
 INPUT DecompressingImage.py
-INPUT ..\Decompressed Images\decompressedImage_m1.png
-INPUT ..\Decompressed Images\decompressedImage_m1.png
-INPUT ..\Decompressed Images\decompressedImage_m1.png
-INPUT ..\Decompressed Images\decompressedImage_m1.png
-INPUT ..\Decompressed Images\decompressedImage_m1.png
-INPUT ..\Decompressed Images\decompressedImage_m1.png
-INPUT ..\Decompressed Images\decompressedImage_m1.png
-INPUT ..\Decompressed Images\decompressedImage_m2.png
-INPUT ..\Decompressed Images\decompressedImage_m2.png
-INPUT ..\Decompressed Images\decompressedImage_m2.png
-INPUT ..\Decompressed Images\decompressedImage_m2.png
-INPUT ..\Decompressed Images\decompressedImage_m2.png
-INPUT ..\Decompressed Images\decompressedImage_m2.png
-INPUT ..\Decompressed Images\decompressedImage_m2.png
-INPUT ..\Decompressed Images\decompressedImage_m3.png
-INPUT ..\Decompressed Images\decompressedImage_m3.png
-INPUT ..\Decompressed Images\decompressedImage_m3.png
-INPUT ..\Decompressed Images\decompressedImage_m3.png
-INPUT ..\Decompressed Images\decompressedImage_m3.png
-INPUT ..\Decompressed Images\decompressedImage_m3.png
-INPUT ..\Decompressed Images\decompressedImage_m3.png
-INPUT ..\Decompressed Images\decompressedImage_m4.png
-INPUT ..\Decompressed Images\decompressedImage_m4.png
-INPUT ..\Decompressed Images\decompressedImage_m4.png
-INPUT ..\Decompressed Images\decompressedImage_m4.png
-INPUT ..\Decompressed Images\decompressedImage_m4.png
-INPUT ..\Decompressed Images\decompressedImage_m4.png
-INPUT ..\Decompressed Images\decompressedImage_m4.png
+INPUT ..\Report Images\decompressedImage_m1.png
+INPUT ..\Report Images\decompressedImage_m1.png
+INPUT ..\Report Images\decompressedImage_m1.png
+INPUT ..\Report Images\decompressedImage_m1.png
+INPUT ..\Report Images\decompressedImage_m1.png
+INPUT ..\Report Images\decompressedImage_m1.png
+INPUT ..\Report Images\decompressedImage_m1.png
+INPUT ..\Report Images\decompressedImage_m2.png
+INPUT ..\Report Images\decompressedImage_m2.png
+INPUT ..\Report Images\decompressedImage_m2.png
+INPUT ..\Report Images\decompressedImage_m2.png
+INPUT ..\Report Images\decompressedImage_m2.png
+INPUT ..\Report Images\decompressedImage_m2.png
+INPUT ..\Report Images\decompressedImage_m2.png
+INPUT ..\Report Images\decompressedImage_m3.png
+INPUT ..\Report Images\decompressedImage_m3.png
+INPUT ..\Report Images\decompressedImage_m3.png
+INPUT ..\Report Images\decompressedImage_m3.png
+INPUT ..\Report Images\decompressedImage_m3.png
+INPUT ..\Report Images\decompressedImage_m3.png
+INPUT ..\Report Images\decompressedImage_m3.png
+INPUT ..\Report Images\decompressedImage_m4.png
+INPUT ..\Report Images\decompressedImage_m4.png
+INPUT ..\Report Images\decompressedImage_m4.png
+INPUT ..\Report Images\decompressedImage_m4.png
+INPUT ..\Report Images\decompressedImage_m4.png
+INPUT ..\Report Images\decompressedImage_m4.png
+INPUT ..\Report Images\decompressedImage_m4.png
 INPUT .\ch5.tex
 INPUT .\ch5.tex
 OUTPUT ch5.aux

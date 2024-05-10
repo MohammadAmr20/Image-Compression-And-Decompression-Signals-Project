@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.28)  5 MAY 2024 03:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.28)  10 MAY 2024 14:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -791,35 +791,35 @@ Chapter 4.
  (ch4.tex
 Chapter 5.
 (DecompressingImage.py)
-<../Decompressed Images/decompressedImage_m1.png, id=243, 1927.2pt x 1084.05pt>
-File: ../Decompressed Images/decompressedImage_m1.png Graphic file (type png)
-<use ../Decompressed Images/decompressedImage_m1.png>
-Package pdftex.def Info: ../Decompressed Images/decompressedImage_m1.png  used on input line 23.
+<../Report Images/decompressedImage_m1.png, id=243, 1927.2pt x 1084.05pt>
+File: ../Report Images/decompressedImage_m1.png Graphic file (type png)
+<use ../Report Images/decompressedImage_m1.png>
+Package pdftex.def Info: ../Report Images/decompressedImage_m1.png  used on input line 23.
 (pdftex.def)             Requested size: 390.25534pt x 219.51892pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../Decompressed Images/decompressedImage_m2.png, id=244, 1927.2pt x 1084.05pt>
-File: ../Decompressed Images/decompressedImage_m2.png Graphic file (type png)
-<use ../Decompressed Images/decompressedImage_m2.png>
-Package pdftex.def Info: ../Decompressed Images/decompressedImage_m2.png  used on input line 30.
+<../Report Images/decompressedImage_m2.png, id=244, 1927.2pt x 1084.05pt>
+File: ../Report Images/decompressedImage_m2.png Graphic file (type png)
+<use ../Report Images/decompressedImage_m2.png>
+Package pdftex.def Info: ../Report Images/decompressedImage_m2.png  used on input line 30.
 (pdftex.def)             Requested size: 390.25534pt x 219.51892pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../Decompressed Images/decompressedImage_m3.png, id=245, 1927.2pt x 1084.05pt>
-File: ../Decompressed Images/decompressedImage_m3.png Graphic file (type png)
-<use ../Decompressed Images/decompressedImage_m3.png>
-Package pdftex.def Info: ../Decompressed Images/decompressedImage_m3.png  used on input line 37.
+<../Report Images/decompressedImage_m3.png, id=245, 1927.2pt x 1084.05pt>
+File: ../Report Images/decompressedImage_m3.png Graphic file (type png)
+<use ../Report Images/decompressedImage_m3.png>
+Package pdftex.def Info: ../Report Images/decompressedImage_m3.png  used on input line 37.
 (pdftex.def)             Requested size: 390.25534pt x 219.51892pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../Decompressed Images/decompressedImage_m4.png, id=246, 1927.2pt x 1084.05pt>
-File: ../Decompressed Images/decompressedImage_m4.png Graphic file (type png)
-<use ../Decompressed Images/decompressedImage_m4.png>
-Package pdftex.def Info: ../Decompressed Images/decompressedImage_m4.png  used on input line 44.
+<../Report Images/decompressedImage_m4.png, id=246, 1927.2pt x 1084.05pt>
+File: ../Report Images/decompressedImage_m4.png Graphic file (type png)
+<use ../Report Images/decompressedImage_m4.png>
+Package pdftex.def Info: ../Report Images/decompressedImage_m4.png  used on input line 44.
 (pdftex.def)             Requested size: 390.25534pt x 219.51892pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -829,7 +829,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-] [8 <../Decompressed Images/decompressedImage_m1.png (PNG copy)> <../Decompressed Images/decompressedImage_m2.png (PNG copy)>] [9 <../Decompressed Images/decompressedImage_m3.png (PNG copy)> <../Decompressed Images/decompressedImage_m4.png (PNG copy)>]
+] [8 <../Report Images/decompressedImage_m1.png (PNG copy)> <../Report Images/decompressedImage_m2.png (PNG copy)>] [9 <../Report Images/decompressedImage_m3.png (PNG copy)> <../Report Images/decompressedImage_m4.png (PNG copy)>]
 \openout2 = `ch5.aux'.
 
  (ch5.tex
@@ -884,7 +884,7 @@ Package rerunfilecheck Info: File `report.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  28643 strings out of 474486
- 577606 string characters out of 5743755
+ 577438 string characters out of 5743755
  2382542 words of memory out of 5000000
  50218 multiletter control sequences out of 15000+600000
  567173 words of font info for 72 fonts, out of 8000000 for 9000
